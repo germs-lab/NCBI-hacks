@@ -1,5 +1,8 @@
 ﻿import sys
 
+#Usage extract-cds-from-gb.py <gbk file>
+
+
 #Script to take a file of proteins in GenBank/GenPept format, examine
 #their annotation, and use this to download their CDS from the NCBI.
 #Written and tested on Biopython 1.49, on 2008/01/19
